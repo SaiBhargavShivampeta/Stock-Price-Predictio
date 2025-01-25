@@ -68,7 +68,7 @@ TensorFlow/Keras for Deep Learning.
 
 Matplotlib for visualizations.
 
-Future Enhancements
+## Future Enhancements:
 
 Expand to include sentiment analysis of financial news.
 
